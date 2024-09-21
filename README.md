@@ -1,4 +1,12 @@
-# BrowserPermissionExtension
+# Browser Permissions Extension
+Overview: Browser Permissions is a powerful tool that allows users to easily view, manage, and modify the permissions granted to websites and other Chrome extensions. This extension provides a user-friendly interface to ensure that your browsing experience remains secure and private.
+
+Key Features:
+
+- View Permissions: Quickly see which permissions have been granted to each website and extension.
+- Manage Permissions: Enable or disable permissions as needed to enhance your privacy and security.
+- Detailed Information: Get detailed descriptions of what each permission entails and how it affects your browsing experience.
+- User-Friendly Interface: Intuitive design makes it easy for users of all levels to navigate and control their permissions.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
 
@@ -13,6 +21,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Copy the `manifest.json` file to dist folder to recognize it as a extension
 
 ## Running unit tests
 
