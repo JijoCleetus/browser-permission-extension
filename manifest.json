@@ -1,7 +1,7 @@
 {
   "name": "Browser Permission",
   "description": "The Browser Permissions Chrome extension is designed to help users manage and control the permissions granted",
-  "version": "0.0.0.1",
+  "version": "0.0.0.2",
   "manifest_version": 3,
   "action": {
     "default_popup": "index.html",
